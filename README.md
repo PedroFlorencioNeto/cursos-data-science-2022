@@ -5,7 +5,7 @@ Olá! Seja muito bem-vindo(a)! Neste respositório depositarei todo aprendizado 
 
 ### Artificial Intelligence and Data Science for Leader - The University of Chicago & Santander Universidades
 
-Tópicos abordados:
+#### Tópicos abordados:
 - 
 -
 
